@@ -27,7 +27,7 @@ Server: <a href='google.com'>Private</a>
 Owner: <a href='https://t.me/Dreamer999'>Don't Click</a></b>
 """
 
-    ABOUT_HELP_TEXT = """<b>👨‍💻 Creator : <a href='https://t.me/Royaldwip'>Botfather</a>
+    ABOUT_HELP_TEXT = """<b>Owner : <a href='https://t.me/Dreamer999'>Avoid</a>
 ɪ Aᴍ Sɪᴍᴘʟᴇ Mᴏᴠɪᴇ Fɪɴᴅɪɴɢ Rᴏʙᴏᴛ.. 
 Iғ Yᴏᴜ Dᴏɴ'ᴛ Kɴᴏᴡ Hᴏᴡ Tᴏ Usᴇ Mᴇ? 
 Kᴏɪ Nᴀ Bᴀᴛᴀ Dᴇᴛʜᴀ Hᴏᴏɴ Mᴜᴊᴇ Kᴀɪsᴀ Usᴇ Kᴀʀᴇ! Wᴀsᴀ Yᴇ Mᴀᴛ Sᴀᴍᴊᴏ Mᴜᴊᴇ Eɴɢʟɪsʜ Nʜɪ Aᴛᴀ Hᴀɪɴ Mᴜᴊᴇ Aᴛᴀ Hᴀɪɴ Bᴜᴛ Bᴏʟᴛᴀ Nʜɪ Bᴇᴄᴀᴜsᴇ Eɴɢʟɪsʜ Iɴᴅɪᴀ Kᴀ Lᴀɴɢᴜᴀɢᴇ Nʜɪ HᴀɪN.. 
